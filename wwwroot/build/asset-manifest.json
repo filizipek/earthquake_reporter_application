@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b80bec40.css",
+    "main.js": "/static/js/main.c41fa4aa.js",
+    "static/js/453.8be21c81.chunk.js": "/static/js/453.8be21c81.chunk.js",
+    "static/media/earthquake.png": "/static/media/earthquake.a6459f3c994342e5abee.png",
+    "index.html": "/index.html",
+    "main.b80bec40.css.map": "/static/css/main.b80bec40.css.map",
+    "main.c41fa4aa.js.map": "/static/js/main.c41fa4aa.js.map",
+    "453.8be21c81.chunk.js.map": "/static/js/453.8be21c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b80bec40.css",
+    "static/js/main.c41fa4aa.js"
+  ]
+}

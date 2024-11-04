@@ -1,0 +1,30 @@
+/* src/components/Dashboard.css */
+
+.welcome-section {
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.776), /* Adjust the RGBA value for transparency */
+      rgba(53, 2, 2, 0.675)
+    ),
+    url('earthquake.png'); /* Correct path from public directory */
+  background-size: cover;
+  background-position: center;
+  color: #fff; /* Adjust text color for visibility */
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.carousel-item {
+  text-align: center;
+  padding: 20px;
+  color: #fff; /* Ensure text inside carousel is readable */
+}
+
+.carousel-caption {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff; /* Ensures captions are readable */
+  text-align: center;
+}

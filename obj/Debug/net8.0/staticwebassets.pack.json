@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/asset-manifest.json",
+      "PackagePath": "staticwebassets/build/asset-manifest.json"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/favicon.ico",
+      "PackagePath": "staticwebassets/build/favicon.ico"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/index.html",
+      "PackagePath": "staticwebassets/build/index.html"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/logo192.png",
+      "PackagePath": "staticwebassets/build/logo192.png"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/logo512.png",
+      "PackagePath": "staticwebassets/build/logo512.png"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/manifest.json",
+      "PackagePath": "staticwebassets/build/manifest.json"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/robots.txt",
+      "PackagePath": "staticwebassets/build/robots.txt"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/static/css/main.b80bec40.css",
+      "PackagePath": "staticwebassets/build/static/css/main.b80bec40.css"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/static/css/main.b80bec40.css.map",
+      "PackagePath": "staticwebassets/build/static/css/main.b80bec40.css.map"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/static/js/453.8be21c81.chunk.js",
+      "PackagePath": "staticwebassets/build/static/js/453.8be21c81.chunk.js"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/static/js/453.8be21c81.chunk.js.map",
+      "PackagePath": "staticwebassets/build/static/js/453.8be21c81.chunk.js.map"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/static/js/main.c41fa4aa.js",
+      "PackagePath": "staticwebassets/build/static/js/main.c41fa4aa.js"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/static/js/main.c41fa4aa.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/build/static/js/main.c41fa4aa.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/static/js/main.c41fa4aa.js.map",
+      "PackagePath": "staticwebassets/build/static/js/main.c41fa4aa.js.map"
+    },
+    {
+      "Id": "/Users/fipek/Desktop/obase_staj/EarthquakeReporter 4/EarthquakeReporter/wwwroot/build/static/media/earthquake.a6459f3c994342e5abee.png",
+      "PackagePath": "staticwebassets/build/static/media/earthquake.a6459f3c994342e5abee.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.EarthquakeReporter.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.EarthquakeReporter.props",
+      "PackagePath": "build\\EarthquakeReporter.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EarthquakeReporter.props",
+      "PackagePath": "buildMultiTargeting\\EarthquakeReporter.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EarthquakeReporter.props",
+      "PackagePath": "buildTransitive\\EarthquakeReporter.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
